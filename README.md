@@ -2,16 +2,17 @@
 
 ---
 
-### **Languages and tools**
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+### **Languages**
   
-
-
 ![Dart](https://img.shields.io/badge/-Dart-1A162A?style=for-the-badge&logo=dart&logoColor=2c71bf)
 ![Flutter](https://img.shields.io/badge/-Flutter-1A162A?style=for-the-badge&logo=flutter&logoColor=2c71bf)
 ![Python](https://img.shields.io/badge/-Python-1A162A?style=for-the-badge&logo=python&logoColor=FFDB58)
 ![Php](https://img.shields.io/badge/-PHP-1A162A?style=for-the-badge&logo=php&logoColor=2c71bf)
 ![Javascript](https://img.shields.io/badge/-Javascript-1A162A?style=for-the-badge&logo=javascript&logoColor=FFDB58)
+
+### **VoIP platforms**
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/clover-soft/clover-soft/f4f2ec5490b59cc9b72af1891e5f5ff023cc3da1/assets/asterisk.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/clover-soft/clover-soft/f4f2ec5490b59cc9b72af1891e5f5ff023cc3da1/assets/kamailio.png"></code>
 
 ### **Follow me**
 [![VK](https://img.shields.io/badge/-VK-1A162A?style=for-the-badge&logo=VK&logoColor=4E7DB3)](https://vk.com/https://vk.com/yaclover)
