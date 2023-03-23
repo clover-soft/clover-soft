@@ -6,6 +6,8 @@
   
 ![Dart](https://img.shields.io/badge/-Dart-1A162A?style=for-the-badge&logo=dart&logoColor=2c71bf)
 ![Flutter](https://img.shields.io/badge/-Flutter-1A162A?style=for-the-badge&logo=flutter&logoColor=2c71bf)
+![Swift](https://img.shields.io/badge/-Swift-1A162A?style=for-the-badge&logo=swift&logoColor=F04F09)
+![Kotlin](https://img.shields.io/badge/-Kotlin-1A162A?style=for-the-badge&logo=kotlin&logoColor=F07D09)
 ![Python](https://img.shields.io/badge/-Python-1A162A?style=for-the-badge&logo=python&logoColor=FFDB58)
 ![Php](https://img.shields.io/badge/-PHP-1A162A?style=for-the-badge&logo=php&logoColor=2c71bf)
 ![Javascript](https://img.shields.io/badge/-Javascript-1A162A?style=for-the-badge&logo=javascript&logoColor=FFDB58)
