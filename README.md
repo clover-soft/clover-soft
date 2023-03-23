@@ -15,7 +15,7 @@
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/clover-soft/clover-soft/f4f2ec5490b59cc9b72af1891e5f5ff023cc3da1/assets/kamailio.png"></code>
 
 ### **Follow me**
-[![VK](https://img.shields.io/badge/-VK-1A162A?style=for-the-badge&logo=VK&logoColor=4E7DB3)](https://vk.com/https://vk.com/yaclover)
+[![VK](https://img.shields.io/badge/-VK-1A162A?style=for-the-badge&logo=VK&logoColor=4E7DB3)](https://vk.com/yaclover)
 [![Telegram](https://img.shields.io/badge/-Telegram-1A162A?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yakovpng)
 
 
